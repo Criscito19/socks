@@ -1,0 +1,10 @@
+.like-page-container {
+  background-color: gray; 
+  min-height: 100vh; 
+  display: flex;
+  flex-direction: column;
+}
+
+.like-page-container > * {
+  flex: 1;
+}
